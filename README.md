@@ -27,6 +27,11 @@ This sample project is intended an easy starting point for anyone who wants to l
 Enjoy!  
 :-)
 
+Niels Ole Dam 
+Things in Flow
+Copenhagen  
+14/10-2016
+
 # More info
 The project was developed for a presentation I did for the "CopenhagenR - useR Group" in October 2016.
 
@@ -35,7 +40,3 @@ http://thingsinflow.dk/r-Docker-workflow
 
 There is also a (clickable) flow diagram showing the different steps I touch on in the presentation here – all the blue elements are clickable:  
 http://bit.ly/R-Docker-workflow
-
-Niels Ole Dam  
-Copenhagen  
-14/10-2016
