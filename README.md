@@ -41,5 +41,5 @@ http://thingsinflow.dk/r-Docker-workflow
 There is also a flow diagram showing the different steps I touch on in the presentation here (clickable pdf):  
 http://bit.ly/R-Docker-workflow  
 
-All the blue numbers and doc icons in the flow diagram are clickable – they link to the related page in the presentation.
+All the blue numbers and doc icons in the flow diagram are clickable – they link to the related page in the presentation.  
 All links and underlines in the presentation are also clickable – they link to related pages else where on the Internet.
