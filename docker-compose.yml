@@ -1,0 +1,15 @@
+version: '2'
+
+services:
+  shiny:
+    image: quantumobject/docker-shiny
+    ports:
+      - "80:3838"
+    volumes_from:
+      - shiny-datastore
+    
+  shiny-datastore:
+    build: ./shiny-datastore
+    image: nielsoledam/shiny-datastore:latest
+    volumes:
+      - /srv/shiny-server
