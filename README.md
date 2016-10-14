@@ -35,9 +35,12 @@ Copenhagen
 # More info
 The project was developed for a presentation I did for the "CopenhagenR - useR Group" in October 2016.
 
-You can see the slides for the full presentation here:  
+You can see the slides for the full presentation here (clickable pdf):  
 http://thingsinflow.dk/r-Docker-workflow
 
-There is also a (clickable) flow diagram showing the different steps I touch on in the presentation here:  
+There is also a flow diagram showing the different steps I touch on in the presentation here (clickable pdf):  
 http://bit.ly/R-Docker-workflow  
-(NB All the blue numbers and doc icons in the pdf are clickable – they link to the related page in the presentation.)
+
+All the blue numbers and doc icons in the flow diagram are clickable – they link to the related page in the presentation.
+
+All links and underlines in the presentation are also clickable – the link to related pages else where on the Internet.
