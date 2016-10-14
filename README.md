@@ -7,10 +7,10 @@ Enjoy!
 
 # More info
 The project was developed for a presentation i did for the "CopenhagenR - useR Group" earlier this week.
-You can see the slides for the full presentation here:
+You can see the slides for the full presentation here: 
 http://thingsinflow.dk/r-Docker-workflow
 
-There is also a (clickable) flow diagram showing the different steps I touch on in the presentation here – all the blue elements are clickable:
+There is also a (clickable) flow diagram showing the different steps I touch on in the presentation here – all the blue elements are clickable: 
 http://bit.ly/R-Docker-workflow
 
 Niels Ole Dam
