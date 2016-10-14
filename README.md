@@ -1,5 +1,5 @@
-# README
-r-docker-workflow is a sample project for showing how to set up all the basic elements needed for completely automated Continuous Integration (CI) for developing and deploying R code.
+# README for the r-docker-workflow project
+This is a sample project for showing how to set up all the basic elements needed for completely automated Continuous Integration (CI) for developing and deploying R code.
 
 The sample project currently combines the following technologies:
 * R
@@ -27,6 +27,8 @@ Niels Ole Dam
 Things in Flow  
 Copenhagen  
 14/10-2016
+
+https://twitter.com/nielsoledam   
 
 # More info
 The project was developed for a presentation I did for the "CopenhagenR - useR Group" in October 2016.
