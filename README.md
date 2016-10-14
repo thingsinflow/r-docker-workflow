@@ -1,4 +1,4 @@
-# README for the r-docker-workflow project
+#r-docker-workflow
 This is a sample project for showing how to set up all the basic elements needed for completely automated Continuous Integration (CI) for developing and deploying R code.
 
 The sample project currently combines the following technologies:
