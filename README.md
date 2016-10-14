@@ -7,7 +7,7 @@ The sample project currently combines the following technologies:
 * GitHub
 * Docker
 * Docker Hub
-* CricleCI
+* CircleCI
 * DigitalOcean
 
 ...but it can easily be changed or expanded to include other services.
@@ -41,4 +41,13 @@ All the blue numbers and doc icons in the flow diagram are clickable – they l
 All links and underlines in the presentation are also clickable – they link to related pages else where on the Internet.
 
 # How to use
-Clone the project from GitHub and add as a new project to your local version of RStudio as described in the presentation (see link above).
+* If necessary: Sign up for an account on GitHub if you don't have one all ready.
+* Clone this project from GitHub and add as a new project to your local version of RStudio as described in the presentation (see link above).
+* If necessary: Sign up for accounts on Docker, Docker Hub, CircleCI and DigitalOcean.
+* Setup the build project on CircleCI (see the presentation for more info), add the necessary Environment variables to the build project (`$DOCKER_USER`, `$DOCKER_PASS`, `$DEPLOY_TOKEN`, `$DOCKER_EMAIL`), and activate automatic build when GitHub repo changes.
+* Test that the DigtialOcean server builds automatically when you push a change to the GitHub repo.
+* Add you own R code and push it GitHub.
+* Contgratulations: Your DigitalOcean server will now build, test and deploy automatically (if the test succedes, of course...) with your very own Shiny App!
+
+
+
