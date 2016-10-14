@@ -27,8 +27,8 @@ This sample project is intended an easy starting point for anyone who wants to l
 Enjoy!  
 :-)
 
-Niels Ole Dam 
-Things in Flow
+Niels Ole Dam  
+Things in Flow  
 Copenhagen  
 14/10-2016
 
