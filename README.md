@@ -38,5 +38,6 @@ The project was developed for a presentation I did for the "CopenhagenR - useR G
 You can see the slides for the full presentation here:  
 http://thingsinflow.dk/r-Docker-workflow
 
-There is also a (clickable) flow diagram showing the different steps I touch on in the presentation here – all the blue elements are clickable:  
-http://bit.ly/R-Docker-workflow
+There is also a (clickable) flow diagram showing the different steps I touch on in the presentation here:  
+http://bit.ly/R-Docker-workflow  
+(NB All the blue numbers and doc icons in the pdf are clickable – they link to the related page in the presentation.)
