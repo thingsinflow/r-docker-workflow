@@ -12,7 +12,7 @@ The sample project currently combines the following technologies:
 
 ...but it can easily be changed or expanded to include other services.
 
-Apart from the R files the full automated setup is controlled by adding only these 4 extra script files to the root of the project:
+Apart from the R files the full automated setup is controlled by adding only these 4 extra script files to the R project:
 * Dockerfile  
 (script used for setting up a Docker Data Volume container)
 * docker-compose.yml  
